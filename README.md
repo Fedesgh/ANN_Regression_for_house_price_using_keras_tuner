@@ -1,7 +1,7 @@
 Using a dataset of house prices from (https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 We aim to build an artificial neural network (ANN) optimized with Keras-Tuner.
 
-About the data set: 
+♦About the data set: 
 
 Number of rows: 21613
 
@@ -11,13 +11,13 @@ We use 18 columns as features (inputs), 1 as target, and drop 2
 
 ## Model results
 
-Structure:
+♦Structure:
 
 
 ![model.ss.jpg](model.ss.jpg)
 
 
-Hyperparameters:
+♦Hyperparameters:
 
 
 num_layers: 6
@@ -34,7 +34,7 @@ lr: 0.00110654178783952
 
 
 
-Metrics: 
+♦Metrics: 
 
 
 MAE:  71602.69808292852
