@@ -7,7 +7,7 @@ Number of rows: 21613
 
 Number of columns: 21
 
-We use 18 columns as features (inputs), 1 as target, and drop 2
+We use 18 columns as features (inputs), 1 as target (continuous variable "price"), and drop 2
 
 ## Model results
 
